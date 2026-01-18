@@ -1,29 +1,20 @@
-# 💫 About Me
+## I'm Shahid Julaya
 
-🔨 Currently working on  
-- Data Analytics & Business Intelligence dashboards (SQL, Power BI)  
-- Customer behavior analysis and KPI-driven insights  
-- Academic and real-world datasets with business context  
+Aspiring Data Analyst | Python • SQL • Power BI  
+Focused on data-driven insights and decision-oriented analytics
 
-🤝 Open to collaborating on  
-- Data Analytics and BI-focused projects  
-- Open-source datasets or dashboard templates  
-- Data extraction, cleaning, and exploratory analysis workflows  
+---
 
-🆘 Looking to improve  
-- Dashboard storytelling for non-technical stakeholders  
-- Scalable data models and analytical best practices  
-- Structuring analytics projects for long-term usability  
-
-🌱 Currently learning  
-- Advanced SQL (CTEs, window functions, performance tuning)  
-- Python for automation and analytics pipelines  
-- Fundamentals of Machine Learning for analytics use-cases  
-- Data modeling and schema design
+- 🔨 Currently working on Data Analytics & Business Intelligence Projects(SQL, Power BI)  
+- 👯 I'm Looking to collaborate on Heckathons
+- 📄 Looking for help with Dashboard storytelling for non-technical stakeholders  
+- 🌱 Currently learning Advanced SQL & Data modeling and schema design
+- 📫 How to reach me sahidjulaya0@gmail.com
 
 
 
-## 🌐 Socials:
+
+## 🌐 Connect with me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahid_julaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-julaya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32220027) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shahid_julaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahidjulaya0@gmail.com) 
 
 # 💻 Tech Stack:
