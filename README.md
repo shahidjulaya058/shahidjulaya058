@@ -1,5 +1,26 @@
-# 💫 About Me:
-🔨 I’m currently working on<br>>Data Analytics & Business Intelligence dashboards (SQL, Power BI)<br>>Customer behavior & KPI analysis projects<br>>Academic + real-world datasets <br>🤝 I’m looking to collaborate on<br>>Data Analytics / Data Science projects<br>>Open-source datasets or dashboard templates<br>>data extraction & analysis projects<br>>ML projects with real business use-cases<br>🆘 I’m looking for help with<br>>Improving dashboard storytelling for non-technical users<br>>Best practices for scalable data models<br>>Transitioning analytics projects to production-ready pipelines<br>🌱 I’m currently learning<br>>Advanced SQL & performance tuning<br>>Python for automation & data pipelines<br>>Basics of Machine Learning for analytics<br>>Data modeling & schema designs<br>
+# 💫 About Me
+
+🔨 Currently working on  
+- Data Analytics & Business Intelligence dashboards (SQL, Power BI)  
+- Customer behavior analysis and KPI-driven insights  
+- Academic and real-world datasets with business context  
+
+🤝 Open to collaborating on  
+- Data Analytics and BI-focused projects  
+- Open-source datasets or dashboard templates  
+- Data extraction, cleaning, and exploratory analysis workflows  
+
+🆘 Looking to improve  
+- Dashboard storytelling for non-technical stakeholders  
+- Scalable data models and analytical best practices  
+- Structuring analytics projects for long-term usability  
+
+🌱 Currently learning  
+- Advanced SQL (CTEs, window functions, performance tuning)  
+- Python for automation and analytics pipelines  
+- Fundamentals of Machine Learning for analytics use-cases  
+- Data modeling and schema design
+
 
 
 ## 🌐 Socials:
